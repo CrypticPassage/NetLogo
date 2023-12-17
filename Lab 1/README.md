@@ -50,7 +50,7 @@
 </tbody>
 </table>
 
-![!\[Alt text\](image.png)](<Subright.png>)
+![!\[Alt text\](image.png)](<Sunbright.png>)
 
 На основі наведеної таблиці можна зробити висновок, що збільшення показнику sun-brightness сприяє збільшенню температури земної поверхні.
 
