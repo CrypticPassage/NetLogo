@@ -84,16 +84,12 @@ Fitness= 38,8239
 
 ![Alt text](image4.png)
 ```
-Best found so far:
-initial-fruit-bushes=      4
-initial-foragers    =     26
-bush-growth-chance  =     94
-ticks-to-flee       =     81
-max-age             =     19
-collaboration-bonus =1.05069
-rate-of-mutation    =    0.4
-show-energy?        =   true
-visualization       =Proactive Aggression
+From all searches:
 
-Fitness= 0.00000
+Best found so far:
+
+sun-brightness=5
+albedo        =   0
+
+Fitness= 40,5457
 ```
